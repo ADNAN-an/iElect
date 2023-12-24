@@ -3,3 +3,9 @@ Django==5.0
 sqlparse==0.4.4
 typing_extensions==4.9.0
 tzdata==2023.3
+numpy
+numba
+gunicorn
+python-dotenv
+whitenoise
+django-admin-soft-dashboard==1.0.11
